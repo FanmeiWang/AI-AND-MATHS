@@ -1,4 +1,4 @@
-# **AI Algorithms & Mathematics – Assignment 2**
+# **AI Algorithms & Mathematics – MiniProject 2**
 This repository contains my solutions for **AIDI 1000 – AI Algorithms & Mathematics Assignment 2**. The assignment focuses on **statistical hypothesis testing, optimization techniques, linear algebra, and eigenvalue computations** using Python.
 
 ---
